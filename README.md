@@ -7,6 +7,7 @@ This repository contains beginner Machine Learning projects built using Python a
 - Student Marks Prediction (Simple Linear Regression)
 - House Price Prediction (Simple Linear Regression)
 - Employee Salary Prediction (Simple Linear Regression)
+- Person weight prediction bases on height(Simple Linear Regression)
 - Student Marks Prediction based on number of hours study and Attendence (Multiple Linear Regression)
 - Employee Salary Prediction (Multiple Linear Regression) based on following data:-
   a) age of employee
