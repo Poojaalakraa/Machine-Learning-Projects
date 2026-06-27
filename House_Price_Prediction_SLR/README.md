@@ -14,7 +14,7 @@ This project predicts house prices based on the area of the house using Simple L
 - Scikit-learn
 
 ## Dataset
-- House_Data.csv
+- House_price.csv
 
 ## Input
 - Area of House
