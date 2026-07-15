@@ -17,7 +17,10 @@ This repository contains beginner Machine Learning projects built using Python a
   b) petrol_tax
   c) paved_highways
   d) Average_Income
+## Unsupervised Learning
 
+- Cluster Blobs usning k-Means Clustring
+  
 ## Technologies Used
 
 - Python
